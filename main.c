@@ -21,6 +21,7 @@ int main(int argc, char *argv[]) {
 	
 	printf("ID : %i, name : %s, grade : %1f\n", stdPtr->ID, stdPtr->name, stdPtr->grade);
 	
+	
 	system ("PAUSE");
 	return 0;
 }
